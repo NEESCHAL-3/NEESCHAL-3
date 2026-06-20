@@ -1,3 +1,6 @@
+cd ~/Projects/NEESCHAL-3
+
+cat > README.md <<'EOF'
 <div align="center">
 
 # Hey, I'm Nischal 👋
@@ -5,60 +8,23 @@
 ### BSc (Hons) CSE Student  
 ### Linux • Android • Open Source • Full Stack Development
 
-I enjoy exploring new technologies, building practical projects, and learning by doing.  
-Most of my work comes from experimenting, breaking things, fixing them, and improving step by step.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=Learning%2C+experimenting%2C+and+improving.;Building+real+projects+and+learning+by+doing.;Exploring+Linux%2C+Android%2C+open+source%2C+and+full-stack+development." alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🚀 Current Focus
+## 🚀 About Me
 
-- Linux tools and desktop authentication
-- Android device trees, kernels, and system-level customization
-- Open-source project development and GitHub workflow
-- Full-stack web development
-- Learning how real software projects are built, maintained, and improved
-
----
-
-## 🔥 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### FaceAuth  
-Open-source Linux face unlock assistant with diagnostics, camera tools, safe PAM integration, and lockscreen support.
-
-</td>
-<td width="50%">
-
-### EVONIX Kernel  
-Custom kernel work for POCO X7 Pro / rodin focused on Android customization and device support.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### Rodin Capability Extension  
-Capability extension module for Xiaomi rodin, focused on improving device feature support.
-
-</td>
-<td width="50%">
-
-### CET138 ePortfolio  
-Full-stack development coursework and personal portfolio project.
-
-</td>
-</tr>
-</table>
+- 🎓 BSc (Hons) CSE student
+- 🐧 Exploring Linux, desktop tools, and system-level development
+- 📱 Interested in Android customization, kernels, and device trees
+- 🌐 Learning full-stack development through practical projects
+- 🛠 I enjoy building, breaking, fixing, and improving things step by step
 
 ---
 
-## 🛠️ Tech I Work With
+## 🧰 Tech I Work With
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white" />
@@ -74,20 +40,33 @@ Full-stack development coursework and personal portfolio project.
 
 ---
 
+## 🔥 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/NEESCHAL-3/FaceAuth">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NEESCHAL-3&repo=FaceAuth&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/NEESCHAL-3/EVONIX-kernel">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NEESCHAL-3&repo=EVONIX-kernel&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/NEESCHAL-3/Rodin-Capability-Extension">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NEESCHAL-3&repo=Rodin-Capability-Extension&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/NEESCHAL-3/cet138-eportfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NEESCHAL-3&repo=cet138-eportfolio&theme=tokyonight" />
+  </a>
+</p>
+
+---
+
 ## 📚 Currently Learning
 
-~~~text
+```text
 Git and GitHub maintainer workflow
 Linux PAM, GDM, and lockscreen behavior
 Android kernels and device trees
 Full-stack web development
 Open-source collaboration
-~~~
-
----
-
-<div align="center">
-
-### Learning, experimenting, and improving.
-
-</div>
