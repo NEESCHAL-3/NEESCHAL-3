@@ -1,7 +1,7 @@
 <div align="center">
 
 <p>
-  <img src="./assets/pet_typing.gif" width="220" alt="Animated hacker penguin mascot" />
+  <img src="./assets/pet_typing.gif" width="300" alt="Animated hacker penguin mascot" />
 </p>
 
 # Hey, I'm Nischal 👋
