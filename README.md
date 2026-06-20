@@ -1,6 +1,3 @@
-cd ~/Projects/NEESCHAL-3
-
-cat > README.md <<'EOF'
 <div align="center">
 
 # Hey, I'm Nischal 👋
@@ -24,7 +21,7 @@ cat > README.md <<'EOF'
 
 ---
 
-## 🧰 Tech I Work With
+## 🧰 Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white" />
@@ -40,33 +37,25 @@ cat > README.md <<'EOF'
 
 ---
 
-## 🔥 Featured Projects
+## ⚡ Focus Areas
 
 <p align="center">
-  <a href="https://github.com/NEESCHAL-3/FaceAuth">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NEESCHAL-3&repo=FaceAuth&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/NEESCHAL-3/EVONIX-kernel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NEESCHAL-3&repo=EVONIX-kernel&theme=tokyonight" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/NEESCHAL-3/Rodin-Capability-Extension">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NEESCHAL-3&repo=Rodin-Capability-Extension&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/NEESCHAL-3/cet138-eportfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NEESCHAL-3&repo=cet138-eportfolio&theme=tokyonight" />
-  </a>
+  Linux Authentication • Android Systems • Open Source • Full Stack Development • GitHub Workflow
 </p>
 
 ---
 
-## 📚 Currently Learning
+## 📊 GitHub Stats
 
-```text
-Git and GitHub maintainer workflow
-Linux PAM, GDM, and lockscreen behavior
-Android kernels and device trees
-Full-stack web development
-Open-source collaboration
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NEESCHAL-3&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NEESCHAL-3&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+<div align="center">
+
+### Learning, experimenting, and improving.
+
+</div>
