@@ -41,6 +41,6 @@ I enjoy learning by building, breaking, fixing, and improving things step by ste
 
 <div align="center">
 
-### Learning, experimenting, and improving.
+### Building quietly, learning deeply, and improving one commit at a time.
 
 </div>
