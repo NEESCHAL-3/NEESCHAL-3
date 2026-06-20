@@ -4,12 +4,12 @@
   <img src="./assets/pet_typing.gif" width="220" alt="Animated hacker penguin mascot" />
 </p>
 
-# Hey, I'm Nischal
+# Hey, I'm Nischal 👋
 
 ### BSc (Hons) CSE Student  
 ### Linux • Android • Open Source • Full Stack Development
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1400&color=58A6FF&center=true&vCenter=true&width=620&lines=Building+real+projects+and+learning+by+doing;Exploring+Linux%2C+Android%2C+and+open+source;Learning%2C+experimenting%2C+and+improving" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1400&color=3FB950&center=true&vCenter=true&width=620&lines=Building+real+projects+and+learning+by+doing;Exploring+Linux%2C+Android%2C+and+open+source;Learning%2C+experimenting%2C+and+improving" alt="Typing SVG" />
 
 </div>
 
