@@ -1,5 +1,9 @@
 <div align="center">
 
+<p align="center">
+  <img src="./assets/pet_typing.gif" width="260" alt="Animated hacker penguin mascot" />
+</p>
+
 # Hey, I'm Nischal 👋
 
 ### BSc (Hons) CSE Student  
