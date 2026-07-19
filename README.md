@@ -28,7 +28,7 @@ I enjoy learning by building, breaking, fixing, and improving things step by ste
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=58A6FF" />
   <img src="https://img.shields.io/badge/Shell-0D1117?style=for-the-badge&logo=gnubash&logoColor=58A6FF" />
-  <img src="https://img.shields.io/badge/python-0D1117?style=for-the-badge&logo=python&logoColor=58A6FF" />
+  <img src="./assets/python-badge.svg" />
   <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=58A6FF" />
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" />
   <img src="https://img.shields.io/badge/Android-0D1117?style=for-the-badge&logo=android&logoColor=58A6FF" />
