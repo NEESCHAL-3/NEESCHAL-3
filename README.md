@@ -9,7 +9,7 @@
 </p>
 
 <p>
-  <code>BSc (Hons) Computer Science &amp; Engineering</code> &nbsp;•&nbsp; <code>Nepal &nbsp;<img src="./assets/nepal_flag_waving.svg" height="16" style="vertical-align: -3px;" alt="🇳🇵" /></code>
+  <code>BSc (Hons) Computer Science &amp; Engineering</code> &nbsp;•&nbsp; <code>Nepal &nbsp;<img src="./assets/nepal_flag_waving.svg" height="13" align="middle" alt="🇳🇵" /></code>
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1400&color=DC143C&center=true&vCenter=true&width=620&lines=Exploring+Linux+internals+and+kernel+development;Building+native+hardware+tools+with+Rust+%26+Flutter;Tinkering+with+Android+custom+ROMs+and+recoveries;Learning%2C+building%2C+and+improving+step+by+step" alt="Typing SVG" />
