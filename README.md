@@ -1,7 +1,7 @@
 <div align="center">
 
 <p>
-  <img src="./assets/pet_typing.gif" width="280" height="280" alt="Animated penguin mascot" />
+  <img src="./assets/pet_typing.gif" width="280" alt="Animated penguin mascot" />
 </p>
 
 <p>
