@@ -1,46 +1,120 @@
 <div align="center">
 
 <p>
-  <img src="./assets/pet_typing.gif" width="300" alt="Animated hacker penguin mascot" />
+  <img src="./assets/pet_typing.gif" width="280" alt="Animated penguin mascot" />
 </p>
 
-# Hey, I'm Nischal 👋
+<p>
+  <img src="./assets/title_neon.svg" width="440" alt="Hey, I'm Nischal 👋" />
+</p>
 
-### BSc (Hons) CSE Student  
-### Linux • Android • Open Source • Full Stack Development
+<p>
+  <code>BSc (Hons) Computer Science &amp; Engineering</code> &nbsp;•&nbsp; <code>Nepal &nbsp;<img src="./assets/nepal_flag_waving.svg" height="16" style="vertical-align: -3px;" alt="🇳🇵" /></code>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1400&color=3FB950&center=true&vCenter=true&width=620&lines=Building+real+projects+and+learning+by+doing;Exploring+Linux%2C+Android%2C+and+open+source;Learning%2C+experimenting%2C+and+improving" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1400&color=DC143C&center=true&vCenter=true&width=620&lines=Exploring+Linux+internals+and+kernel+development;Building+native+hardware+tools+with+Rust+%26+Flutter;Tinkering+with+Android+custom+ROMs+and+recoveries;Learning%2C+building%2C+and+improving+step+by+step" alt="Typing SVG" />
+
+<br/>
+<img src="./assets/cyber_divider.svg" width="100%" alt="divider" />
 
 </div>
 
----
+<img src="./assets/heading_identity.svg" width="100%" alt="IDENTITY" />
 
-## About Me
+<img src="./assets/identity_yaml.svg" width="100%" alt="System Overview YAML" />
 
-I am a BSc (Hons) CSE student exploring Linux, Android, open source, and full-stack development through practical projects.
+<div align="center">
+  <img src="./assets/cyber_divider.svg" width="100%" alt="divider" />
+</div>
 
-I enjoy learning by building, breaking, fixing, and improving things step by step.
+<img src="./assets/heading_arsenal.svg" width="100%" alt="ARSENAL" />
 
----
+<table>
+  <thead>
+    <tr>
+      <th width="33%" align="left"><b>01 / SYSTEMS &amp; LOW-LEVEL</b></th>
+      <th width="33%" align="left"><b>02 / LANGUAGES &amp; RUNTIMES</b></th>
+      <th width="33%" align="left"><b>03 / WORKFLOW &amp; TOOLING</b></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr valign="top">
+      <td>
+        <img src="https://img.shields.io/badge/Linux-161b22?style=flat-square&logo=linux&logoColor=1a5fd4" alt="Linux" /><br/>
+        <img src="https://img.shields.io/badge/Android_AOSP-161b22?style=flat-square&logo=android&logoColor=DC143C" alt="Android" /><br/>
+        <img src="https://img.shields.io/badge/Bash_/_Shell-161b22?style=flat-square&logo=gnubash&logoColor=1a5fd4" alt="Shell" /><br/>
+        <img src="https://img.shields.io/badge/Rust-161b22?style=flat-square&logo=rust&logoColor=DC143C" alt="Rust" /><br/>
+        <img src="https://img.shields.io/badge/C_Language-161b22?style=flat-square&logo=c&logoColor=1a5fd4" alt="C" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Python_3-161b22?style=flat-square&logo=python&logoColor=1a5fd4" alt="Python" /><br/>
+        <img src="https://img.shields.io/badge/Flutter-161b22?style=flat-square&logo=flutter&logoColor=1a5fd4" alt="Flutter" /><br/>
+        <img src="https://img.shields.io/badge/Dart-161b22?style=flat-square&logo=dart&logoColor=DC143C" alt="Dart" /><br/>
+        <img src="https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=DC143C" alt="JavaScript" /><br/>
+        <img src="https://img.shields.io/badge/PHP-161b22?style=flat-square&logo=php&logoColor=1a5fd4" alt="PHP" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=DC143C" alt="Git" /><br/>
+        <img src="https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=E6EDF3" alt="GitHub" /><br/>
+        <img src="https://img.shields.io/badge/GitHub_CLI-161b22?style=flat-square&logo=github&logoColor=1a5fd4" alt="GitHub CLI" /><br/>
+        <img src="https://img.shields.io/badge/PAM_Security-161b22?style=flat-square&logo=linux&logoColor=1a5fd4" alt="PAM" /><br/>
+        <img src="https://img.shields.io/badge/Device_Trees-161b22?style=flat-square&logo=android&logoColor=DC143C" alt="Trees" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-## Tech Stack
+<div align="center">
+  <img src="./assets/cyber_divider.svg" width="100%" alt="divider" />
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=58A6FF" />
-  <img src="https://img.shields.io/badge/Shell-0D1117?style=for-the-badge&logo=gnubash&logoColor=58A6FF" />
-  <img src="./assets/python-badge.svg" />
-  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=58A6FF" />
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" />
-  <img src="https://img.shields.io/badge/Android-0D1117?style=for-the-badge&logo=android&logoColor=58A6FF" />
-  <img src="https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&logoColor=58A6FF" />
-  <img src="https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=css3&logoColor=58A6FF" />
-  <img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=58A6FF" />
-</p>
+<img src="./assets/heading_builds.svg" width="100%" alt="BUILDS" />
 
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/NEESCHAL-3/EVONIX-Kernel">EVONIX-Kernel</a></h3>
+      <p>Custom Android kernel built on Linux 6.6 — tuned for performance, stability, and deep hardware access on Android 15.</p>
+      <code>Linux 6.6</code> <code>C</code> <code>Android 15</code> <code>AOSP</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/NEESCHAL-3/OrangeFox-rodin-source">OrangeFox Recovery</a></h3>
+      <p>Runtime-verified custom recovery source — enables flashing, backup, decryption, and system-level modification.</p>
+      <code>Recovery</code> <code>Shell</code> <code>Android</code> <code>Device Tree</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/NEESCHAL-3/Rodin-Essential">Rodin-Essential</a></h3>
+      <p>Native hardware-control suite built with Flutter & Rust — direct hardware access with a clean native UI.</p>
+      <code>Flutter</code> <code>Rust</code> <code>Dart</code> <code>Hardware</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/NEESCHAL-3/FaceAuth">FaceAuth</a></h3>
+      <p>Open-source PAM module that brings face-based authentication to Linux — plugs into the system auth stack.</p>
+      <code>Linux</code> <code>PAM</code> <code>Python</code> <code>Security</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/NEESCHAL-3/ViPER4Android">ViPER4Android</a></h3>
+      <p>Rebuilt ViPER4Android with Material Design 3 — modern UI on top of a powerful audio effects engine.</p>
+      <code>Android</code> <code>Material 3</code> <code>Audio</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/NEESCHAL-3/Rodin-Capability-Extension">Rodin-Capability-Extension</a></h3>
+      <p>Capability extension module that unlocks Pro Audio, Unprocessed Audio Source, and Secure NFC via overlay & SKU normalization.</p>
+      <code>Shell</code> <code>Android</code> <code>Audio</code> <code>NFC</code>
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 <div align="center">
 
-### Building quietly, learning deeply, and improving one commit at a time.
+<img src="./assets/cyber_divider.svg" width="100%" alt="divider" />
+
+<sub>Building quietly, learning deeply, and improving one commit at a time.</sub>
 
 </div>

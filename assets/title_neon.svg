@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 54" width="100%" height="54" fill="none">
+  <defs>
+    <!--
+      ANIMATED GRADIENT: Nepal Blue → White → Crimson → Blue
+      The gradient shifts position to create a flowing color wave through the text.
+    -->
+    <linearGradient id="nameFlow" x1="0%" y1="0%" x2="100%" y2="0%" gradientUnits="userSpaceOnUse">
+      <stop offset="0%"   stop-color="#1a5fd4">
+        <animate attributeName="stop-color"
+          values="#1a5fd4; #e6edf3; #DC143C; #1a5fd4"
+          dur="3.5s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="35%"  stop-color="#e6edf3">
+        <animate attributeName="stop-color"
+          values="#e6edf3; #DC143C; #1a5fd4; #e6edf3"
+          dur="3.5s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="65%"  stop-color="#DC143C">
+        <animate attributeName="stop-color"
+          values="#DC143C; #1a5fd4; #e6edf3; #DC143C"
+          dur="3.5s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#1a5fd4">
+        <animate attributeName="stop-color"
+          values="#1a5fd4; #e6edf3; #DC143C; #1a5fd4"
+          dur="3.5s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <text x="260" y="38" text-anchor="middle"
+        font-family="ui-monospace, 'Cascadia Code', 'Fira Code', 'JetBrains Mono', monospace"
+        font-size="32" font-weight="700" letter-spacing="-0.5px">
+    <tspan fill="#e6edf3">Hey, I'm </tspan>
+    <tspan fill="url(#nameFlow)">Nischal</tspan>
+    <tspan fill="#ffffff"> 👋</tspan>
+  </text>
+</svg>

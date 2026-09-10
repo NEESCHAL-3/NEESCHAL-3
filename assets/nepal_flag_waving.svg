@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     viewBox="-18 -5 72 92" width="100%" height="100%">
+  <defs>
+    <!-- Silk sheen sweep -->
+    <linearGradient id="sh" x1="-100%" y1="0%" x2="0%" y2="0%">
+      <stop offset="0%"   stop-color="#fff" stop-opacity="0"/>
+      <stop offset="45%"  stop-color="#fff" stop-opacity="0.3"/>
+      <stop offset="65%"  stop-color="#fff" stop-opacity="0"/>
+      <stop offset="85%"  stop-color="#fff" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#fff" stop-opacity="0"/>
+      <animate attributeName="x1" values="-100%;100%" dur="2.1s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0%;200%"    dur="2.1s" repeatCount="indefinite"/>
+    </linearGradient>
+    <clipPath id="fc">
+      <path d="M -15,0 L 45,37.573593 L 2.573593,37.573593 L 45,80 L -15,80 Z"/>
+    </clipPath>
+  </defs>
+
+  <!--
+    WAVING FLAG — path d morphing, hoist locked at x=-15
+    Only the fly side (right tips) move to simulate wind ripple.
+    Symbols stay at their correct constitutional positions.
+  -->
+
+  <!-- Crimson body + blue border — MORPHING -->
+  <path fill="#DC143C" stroke="#003893" stroke-width="5"
+        stroke-linejoin="round" stroke-linecap="round">
+    <animate attributeName="d"
+      calcMode="spline"
+      keySplines="0.42 0 0.58 1; 0.42 0 0.58 1; 0.42 0 0.58 1; 0.42 0 0.58 1; 0.42 0 0.58 1; 0.42 0 0.58 1"
+      values="
+        M -15,0 L 45,37.57  L 2.57,37.57  L 45,80   L -15,80 Z;
+        M -15,0 L 43,32     L 1,40        L 48,86   L -15,80 Z;
+        M -15,0 L 48,43     L 5,35        L 42,74   L -15,80 Z;
+        M -15,0 L 45,37.57  L 2.57,37.57  L 45,80   L -15,80 Z;
+        M -15,0 L 44,34     L 2,39        L 47,84   L -15,80 Z;
+        M -15,0 L 47,42     L 4,36        L 43,76   L -15,80 Z;
+        M -15,0 L 45,37.57  L 2.57,37.57  L 45,80   L -15,80 Z"
+      dur="3s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- White celestial symbols — FIXED at correct constitutional positions -->
+  <g fill="#ffffff">
+
+    <!-- Upper pennant: Crescent Moon -->
+    <path d="M -11.9502769431,23.4834957055
+             A 12.8400974233,12.8400974233 0 0,0 11.9502769431,23.4834957055
+             A 11.9502769431 11.9502769431 0 0,1 -11.9502769431,23.4834957055"/>
+
+    <!-- Upper pennant: Sun rays -->
+    <g transform="translate(0 29.045) scale(5.56106)">
+      <circle r="1"/>
+      <g id="d"><g id="c">
+        <path id="b" d="M 0.195090322016,-0.980785280403 L 0,-1.388784109750 L -0.195090322016,-0.980785280403" transform="rotate(11.25)"/>
+        <use xlink:href="#b" transform="rotate(22.5)"/>
+        <use xlink:href="#b" transform="rotate(45)"/>
+      </g>
+      <use xlink:href="#c" transform="rotate(67.5)"/>
+      </g>
+      <use xlink:href="#d" transform="scale(-1 1)"/>
+    </g>
+
+    <!-- Lower pennant: 12-ray Sun -->
+    <g transform="matrix(8.1434 0 0 8.1434 0 58.787)">
+      <circle r="1"/>
+      <g id="g"><g id="f">
+        <path id="e" d="M 0.258819045103,0.965925826289 L 0,1.576749285537 L -0.258819045103,0.965925826289"/>
+        <use xlink:href="#e" transform="rotate(180)"/>
+      </g>
+      <use xlink:href="#f" transform="rotate(90)"/>
+      </g>
+      <use xlink:href="#g" transform="rotate(30)"/>
+      <use xlink:href="#g" transform="rotate(60)"/>
+    </g>
+  </g>
+
+  <!-- Silk sheen overlay -->
+  <rect x="-15" y="0" width="62" height="82"
+        fill="url(#sh)" clip-path="url(#fc)"/>
+
+</svg>

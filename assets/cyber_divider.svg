@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 24" width="100%" height="24" fill="none">
+  <defs>
+    <!-- Nepal Deep Blue stream: Left → Right -->
+    <linearGradient id="bluePulse" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#003893" stop-opacity="0" />
+      <stop offset="55%"  stop-color="#1a5fd4" stop-opacity="0.9" />
+      <stop offset="82%"  stop-color="#aac4ff" stop-opacity="1" />
+      <stop offset="100%" stop-color="#003893" stop-opacity="0" />
+    </linearGradient>
+
+    <!-- Nepal Crimson stream: Right → Left -->
+    <linearGradient id="crimsonPulse" x1="100%" y1="0%" x2="0%" y2="0%">
+      <stop offset="0%"   stop-color="#DC143C" stop-opacity="0" />
+      <stop offset="55%"  stop-color="#DC143C" stop-opacity="0.85" />
+      <stop offset="82%"  stop-color="#ff8fa3" stop-opacity="1" />
+      <stop offset="100%" stop-color="#DC143C" stop-opacity="0" />
+    </linearGradient>
+
+    <!-- Static wire track -->
+    <linearGradient id="baseTrack" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#30363d" stop-opacity="0.1" />
+      <stop offset="20%"  stop-color="#30363d" stop-opacity="0.8" />
+      <stop offset="50%"  stop-color="#003893" stop-opacity="0.35" />
+      <stop offset="80%"  stop-color="#30363d" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#30363d" stop-opacity="0.1" />
+    </linearGradient>
+
+    <radialGradient id="nodeGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%"   stop-color="#DC143C" stop-opacity="1" />
+      <stop offset="100%" stop-color="#003893" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+
+  <!-- Background dashed circuit track -->
+  <line x1="30" y1="12" x2="770" y2="12"
+        stroke="url(#baseTrack)" stroke-width="1" stroke-dasharray="3 7" />
+
+  <!-- Blue laser stream: Left → Right (3 packets) -->
+  <line x1="30" y1="12" x2="770" y2="12"
+        stroke="url(#bluePulse)" stroke-width="2.2"
+        stroke-linecap="round" stroke-dasharray="90 170 90 170 90 170">
+    <animate attributeName="stroke-dashoffset" from="780" to="0" dur="3s" repeatCount="indefinite" />
+  </line>
+
+  <!-- Crimson counter-stream: Right → Left -->
+  <line x1="30" y1="12" x2="770" y2="12"
+        stroke="url(#crimsonPulse)" stroke-width="1.8"
+        stroke-linecap="round" stroke-dasharray="70 230 70 230">
+    <animate attributeName="stroke-dashoffset" from="0" to="600" dur="3.6s" repeatCount="indefinite" />
+  </line>
+
+  <!-- Blue particles Left → Right -->
+  <circle cy="12" r="2.5" fill="#ffffff">
+    <animate attributeName="cx" values="30;770" dur="3s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0;0.3;1;0.3;0" dur="3s" repeatCount="indefinite" />
+  </circle>
+  <circle cy="12" r="5" fill="#1a5fd4" opacity="0.4">
+    <animate attributeName="cx" values="30;770" dur="3s" repeatCount="indefinite" />
+    <animate attributeName="r" values="3;5.5;3" dur="3s" repeatCount="indefinite" />
+  </circle>
+  <circle cy="12" r="2.5" fill="#ffffff">
+    <animate attributeName="cx" values="30;770" dur="3s" begin="1.0s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0;0.3;1;0.3;0" dur="3s" begin="1.0s" repeatCount="indefinite" />
+  </circle>
+  <circle cy="12" r="2.5" fill="#ffffff">
+    <animate attributeName="cx" values="30;770" dur="3s" begin="2.0s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0;0.3;1;0.3;0" dur="3s" begin="2.0s" repeatCount="indefinite" />
+  </circle>
+
+  <!-- Crimson particles Right → Left -->
+  <circle cy="12" r="2" fill="#DC143C">
+    <animate attributeName="cx" values="770;30" dur="3.6s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0;0.4;1;0.4;0" dur="3.6s" repeatCount="indefinite" />
+  </circle>
+  <circle cy="12" r="2" fill="#DC143C">
+    <animate attributeName="cx" values="770;30" dur="3.6s" begin="1.8s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0;0.4;1;0.4;0" dur="3.6s" begin="1.8s" repeatCount="indefinite" />
+  </circle>
+
+  <!-- Anchor nodes -->
+  <circle cx="30"  cy="12" r="2.5" fill="#30363d" />
+  <circle cx="770" cy="12" r="2.5" fill="#30363d" />
+
+  <!-- Center quantum core: Blue + Crimson rings -->
+  <circle cx="400" cy="12" r="4" stroke="#003893" stroke-width="1" fill="none">
+    <animate attributeName="r" values="4;12;4" dur="2s" repeatCount="indefinite" />
+    <animate attributeName="stroke-opacity" values="0.9;0;0.9" dur="2s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="400" cy="12" r="7" stroke="#DC143C" stroke-width="0.75" fill="none">
+    <animate attributeName="r" values="6;14;6" dur="2.4s" begin="0.6s" repeatCount="indefinite" />
+    <animate attributeName="stroke-opacity" values="0.7;0;0.7" dur="2.4s" begin="0.6s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="400" cy="12" r="3.5" fill="url(#nodeGlow)">
+    <animate attributeName="r" values="3;4.2;3" dur="2s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="400" cy="12" r="1.5" fill="#ffffff" />
+
+  <!-- Side dots: blue and crimson -->
+  <circle cx="370" cy="12" r="1.5" fill="#1a5fd4">
+    <animate attributeName="opacity" values="0.3;0.9;0.3" dur="1.8s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="430" cy="12" r="1.5" fill="#DC143C">
+    <animate attributeName="opacity" values="0.3;0.9;0.3" dur="2.2s" repeatCount="indefinite" />
+  </circle>
+</svg>

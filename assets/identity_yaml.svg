@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 248" width="100%">
+  <defs>
+    <!-- Animated Nepal color gradient for values -->
+    <linearGradient id="val" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#1a5fd4">
+        <animate attributeName="stop-color" values="#1a5fd4;#e6edf3;#DC143C;#1a5fd4" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="40%"  stop-color="#e6edf3">
+        <animate attributeName="stop-color" values="#e6edf3;#DC143C;#1a5fd4;#e6edf3" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#DC143C">
+        <animate attributeName="stop-color" values="#DC143C;#1a5fd4;#e6edf3;#DC143C" dur="4s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <style>
+      text  { font-family: ui-monospace,'Cascadia Code','Fira Code',Consolas,monospace; }
+      .cmt  { font-size:11px; fill:#3a424d; }
+      .key  { font-size:12px; fill:#6e7681; }
+      .sect { font-size:12px; fill:#8b949e; font-weight:600; }
+      .val  { font-size:12px; fill:url(#val); }
+      .str  { font-size:12px; fill:#DC143C; opacity:0.85; }
+      .dim  { font-size:12px; fill:#30363d; }
+      .bool { font-size:12px; fill:#1a5fd4; }
+      .sep  { stroke:#21262d; stroke-width:0.5; stroke-dasharray:3 6; }
+    </style>
+  </defs>
+
+  <!-- Card background -->
+  <rect width="680" height="248" rx="6" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
+  <!-- Left Nepal blue bar -->
+  <rect x="0" y="0" width="3" height="248" rx="1" fill="#003893"/>
+
+  <!-- File header comment -->
+  <text x="20" y="22" class="cmt"># ── profile.yaml ─────────────────────────────────────────────────────</text>
+
+  <!-- about: -->
+  <text x="20" y="46"  class="sect">about<tspan class="dim">:</tspan></text>
+  <text x="20" y="64"  class="key">  name<tspan class="dim">:        </tspan><tspan class="val">Nischal Khadka</tspan></text>
+  <text x="20" y="82"  class="key">  location<tspan class="dim">:    </tspan><tspan class="val">Inaruwa, Nepal</tspan><tspan class="dim">  ·  UTC+05:45</tspan></text>
+  <text x="20" y="100" class="key">  degree<tspan class="dim">:      </tspan><tspan class="val">BSc (Hons) Computer Science &amp; Engineering</tspan></text>
+  <text x="20" y="118" class="key">  handle<tspan class="dim">:      </tspan><tspan class="val">NEESCHAL-3</tspan></text>
+
+  <line x1="20" y1="130" x2="660" y2="130" class="sep"/>
+
+  <!-- currently: -->
+  <text x="20" y="148" class="sect">currently<tspan class="dim">:</tspan></text>
+  <text x="20" y="166" class="key">  shipping<tspan class="dim">:    </tspan><tspan class="val">kernel builds · recovery images · Flutter hardware apps</tspan></text>
+  <text x="20" y="184" class="key">  diving_into<tspan class="dim">: </tspan><tspan class="val">Linux security · audio engineering · root solutions</tspan></text>
+  <text x="20" y="202" class="key">  open_source<tspan class="dim">: </tspan><tspan class="bool">true</tspan></text>
+
+  <line x1="20" y1="214" x2="660" y2="214" class="sep"/>
+
+  <!-- toolchain -->
+  <text x="20" y="234" class="sect">toolchain<tspan class="dim">:   </tspan><tspan class="dim">[</tspan><tspan class="val"> GCC, Clang, Cargo, Flutter, Git, Python </tspan><tspan class="dim">]</tspan></text>
+</svg>

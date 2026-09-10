@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 64" width="560" height="64" fill="none">
+  <defs>
+    <!-- Smooth continuous cyber light sweep gradient -->
+    <linearGradient id="textShimmer" x1="-100%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#e6edf3" />
+      <stop offset="38%" stop-color="#e6edf3" />
+      <stop offset="48%" stop-color="#38bdf8" />
+      <stop offset="52%" stop-color="#ffffff" />
+      <stop offset="56%" stop-color="#3fb950" />
+      <stop offset="66%" stop-color="#e6edf3" />
+      <stop offset="100%" stop-color="#e6edf3" />
+      <animate attributeName="x1" from="-100%" to="100%" dur="3.5s" repeatCount="indefinite" />
+      <animate attributeName="x2" from="0%" to="200%" dur="3.5s" repeatCount="indefinite" />
+    </linearGradient>
+
+    <!-- Cyan neon drop aura -->
+    <filter id="titleAura" x="-20%" y="-30%" width="140%" height="160%">
+      <feDropShadow dx="0" dy="2" stdDeviation="6" flood-color="#38bdf8" flood-opacity="0.3" />
+      <feDropShadow dx="0" dy="0" stdDeviation="1" flood-color="#ffffff" flood-opacity="0.2" />
+    </filter>
+  </defs>
+
+  <g filter="url(#titleAura)">
+    <!-- Terminal caret prompt bracket -->
+    <text x="280" y="44" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="34" font-weight="800" fill="url(#textShimmer)" letter-spacing="-0.5px">
+      Hey, I'm Nischal 👋
+    </text>
+  </g>
+</svg>
