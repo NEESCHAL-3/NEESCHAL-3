@@ -14,20 +14,20 @@
     </linearGradient>
     <style>
       text  { font-family: ui-monospace,'Cascadia Code','Fira Code',Consolas,monospace; }
-      .cmt  { font-size:11px; fill:#656d76; }
-      .key  { font-size:12px; fill:#57606a; }
-      .sect { font-size:12px; fill:#1f2328; font-weight:600; }
-      .val  { font-size:12px; fill:url(#valLight); font-weight:500; }
-      .dim  { font-size:12px; fill:#8c959f; }
-      .bool { font-size:12px; fill:#0969da; font-weight:600; }
-      .sep  { stroke:#d0d7de; stroke-width:0.5; stroke-dasharray:3 6; }
+      .cmt  { font-size:11px; fill:#57606a; font-weight:600; }
+      .key  { font-size:12px; fill:#24292f; font-weight:600; }
+      .sect { font-size:12px; fill:#1f2328; font-weight:700; }
+      .val  { font-size:12px; fill:url(#valLight); font-weight:600; }
+      .dim  { font-size:12px; fill:#57606a; font-weight:600; }
+      .bool { font-size:12px; fill:#0969da; font-weight:700; }
+      .sep  { stroke:#d0d7de; stroke-width:1; stroke-dasharray:3 6; }
     </style>
   </defs>
 
   <!-- Light card background -->
-  <rect width="680" height="248" rx="6" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
+  <rect width="680" height="248" rx="6" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1.2"/>
   <!-- Left Nepal blue accent bar -->
-  <rect x="0" y="0" width="3" height="248" rx="1" fill="#003893"/>
+  <rect x="0" y="0" width="4" height="248" rx="1" fill="#003893"/>
 
   <!-- File header comment -->
   <text x="20" y="22" class="cmt"># ── profile.yaml ─────────────────────────────────────────────────────</text>
@@ -44,7 +44,7 @@
   <!-- currently: -->
   <text x="20" y="148" class="sect">currently<tspan class="dim">:</tspan></text>
   <text x="20" y="166" class="key">  shipping<tspan class="dim">:    </tspan><tspan class="val">kernel builds · recovery images · Flutter hardware apps</tspan></text>
-  <text x="20" y="184" class="key">  diving_into<tspan class="dim">: </tspan><tspan class="val">Linux security · audio engineering · root solutions</tspan></text>
+  <text x="20" y="184" class="key">  learning<tspan class="dim">:   </tspan><tspan class="val">Computer Science &amp; Engineering · OS architecture · systems</tspan></text>
   <text x="20" y="202" class="key">  open_source<tspan class="dim">: </tspan><tspan class="bool">true</tspan></text>
 
   <line x1="20" y1="214" x2="660" y2="214" class="sep"/>

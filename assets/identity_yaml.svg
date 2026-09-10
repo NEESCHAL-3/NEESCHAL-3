@@ -45,7 +45,7 @@
   <!-- currently: -->
   <text x="20" y="148" class="sect">currently<tspan class="dim">:</tspan></text>
   <text x="20" y="166" class="key">  shipping<tspan class="dim">:    </tspan><tspan class="val">kernel builds · recovery images · Flutter hardware apps</tspan></text>
-  <text x="20" y="184" class="key">  diving_into<tspan class="dim">: </tspan><tspan class="val">Linux security · audio engineering · root solutions</tspan></text>
+  <text x="20" y="184" class="key">  learning<tspan class="dim">:   </tspan><tspan class="val">Computer Science &amp; Engineering · OS architecture · systems</tspan></text>
   <text x="20" y="202" class="key">  open_source<tspan class="dim">: </tspan><tspan class="bool">true</tspan></text>
 
   <line x1="20" y1="214" x2="660" y2="214" class="sep"/>

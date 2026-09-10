@@ -64,25 +64,85 @@
   <tbody>
     <tr valign="top">
       <td>
-        <img src="https://img.shields.io/badge/Linux-161b22?style=flat-square&logo=linux&logoColor=1a5fd4" alt="Linux" /><br/>
-        <img src="https://img.shields.io/badge/Android_AOSP-161b22?style=flat-square&logo=android&logoColor=DC143C" alt="Android" /><br/>
-        <img src="https://img.shields.io/badge/Bash_/_Shell-161b22?style=flat-square&logo=gnubash&logoColor=1a5fd4" alt="Shell" /><br/>
-        <img src="https://img.shields.io/badge/Rust-161b22?style=flat-square&logo=rust&logoColor=DC143C" alt="Rust" /><br/>
-        <img src="https://img.shields.io/badge/C_Language-161b22?style=flat-square&logo=c&logoColor=1a5fd4" alt="C" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Linux-161b22?style=flat-square&logo=linux&logoColor=1a5fd4">
+          <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Linux-eaeef2?style=flat-square&logo=linux&logoColor=003893">
+          <img src="https://img.shields.io/badge/Linux-161b22?style=flat-square&logo=linux&logoColor=1a5fd4" alt="Linux" />
+        </picture><br/>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Android_AOSP-161b22?style=flat-square&logo=android&logoColor=DC143C">
+          <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Android_AOSP-eaeef2?style=flat-square&logo=android&logoColor=DC143C">
+          <img src="https://img.shields.io/badge/Android_AOSP-161b22?style=flat-square&logo=android&logoColor=DC143C" alt="Android" />
+        </picture><br/>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Bash_/_Shell-161b22?style=flat-square&logo=gnubash&logoColor=1a5fd4">
+          <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Bash_/_Shell-eaeef2?style=flat-square&logo=gnubash&logoColor=003893">
+          <img src="https://img.shields.io/badge/Bash_/_Shell-161b22?style=flat-square&logo=gnubash&logoColor=1a5fd4" alt="Shell" />
+        </picture><br/>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Rust-161b22?style=flat-square&logo=rust&logoColor=DC143C">
+          <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Rust-eaeef2?style=flat-square&logo=rust&logoColor=DC143C">
+          <img src="https://img.shields.io/badge/Rust-161b22?style=flat-square&logo=rust&logoColor=DC143C" alt="Rust" />
+        </picture><br/>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/C_Language-161b22?style=flat-square&logo=c&logoColor=1a5fd4">
+          <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/C_Language-eaeef2?style=flat-square&logo=c&logoColor=003893">
+          <img src="https://img.shields.io/badge/C_Language-161b22?style=flat-square&logo=c&logoColor=1a5fd4" alt="C" />
+        </picture>
       </td>
       <td>
-        <img src="https://img.shields.io/badge/Python_3-161b22?style=flat-square&logo=python&logoColor=1a5fd4" alt="Python" /><br/>
-        <img src="https://img.shields.io/badge/Flutter-161b22?style=flat-square&logo=flutter&logoColor=1a5fd4" alt="Flutter" /><br/>
-        <img src="https://img.shields.io/badge/Dart-161b22?style=flat-square&logo=dart&logoColor=DC143C" alt="Dart" /><br/>
-        <img src="https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=DC143C" alt="JavaScript" /><br/>
-        <img src="https://img.shields.io/badge/PHP-161b22?style=flat-square&logo=php&logoColor=1a5fd4" alt="PHP" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python_3-161b22?style=flat-square&logo=python&logoColor=1a5fd4">
+          <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Python_3-eaeef2?style=flat-square&logo=python&logoColor=003893">
+          <img src="https://img.shields.io/badge/Python_3-161b22?style=flat-square&logo=python&logoColor=1a5fd4" alt="Python" />
+        </picture><br/>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Flutter-161b22?style=flat-square&logo=flutter&logoColor=1a5fd4">
+          <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Flutter-eaeef2?style=flat-square&logo=flutter&logoColor=003893">
+          <img src="https://img.shields.io/badge/Flutter-161b22?style=flat-square&logo=flutter&logoColor=1a5fd4" alt="Flutter" />
+        </picture><br/>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Dart-161b22?style=flat-square&logo=dart&logoColor=DC143C">
+          <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Dart-eaeef2?style=flat-square&logo=dart&logoColor=DC143C">
+          <img src="https://img.shields.io/badge/Dart-161b22?style=flat-square&logo=dart&logoColor=DC143C" alt="Dart" />
+        </picture><br/>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=DC143C">
+          <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/JavaScript-eaeef2?style=flat-square&logo=javascript&logoColor=DC143C">
+          <img src="https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=DC143C" alt="JavaScript" />
+        </picture><br/>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PHP-161b22?style=flat-square&logo=php&logoColor=1a5fd4">
+          <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/PHP-eaeef2?style=flat-square&logo=php&logoColor=003893">
+          <img src="https://img.shields.io/badge/PHP-161b22?style=flat-square&logo=php&logoColor=1a5fd4" alt="PHP" />
+        </picture>
       </td>
       <td>
-        <img src="https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=DC143C" alt="Git" /><br/>
-        <img src="https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=E6EDF3" alt="GitHub" /><br/>
-        <img src="https://img.shields.io/badge/GitHub_CLI-161b22?style=flat-square&logo=github&logoColor=1a5fd4" alt="GitHub CLI" /><br/>
-        <img src="https://img.shields.io/badge/PAM_Security-161b22?style=flat-square&logo=linux&logoColor=1a5fd4" alt="PAM" /><br/>
-        <img src="https://img.shields.io/badge/Device_Trees-161b22?style=flat-square&logo=android&logoColor=DC143C" alt="Trees" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=DC143C">
+          <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Git-eaeef2?style=flat-square&logo=git&logoColor=DC143C">
+          <img src="https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=DC143C" alt="Git" />
+        </picture><br/>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=E6EDF3">
+          <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GitHub-eaeef2?style=flat-square&logo=github&logoColor=1f2328">
+          <img src="https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=E6EDF3" alt="GitHub" />
+        </picture><br/>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub_CLI-161b22?style=flat-square&logo=github&logoColor=1a5fd4">
+          <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GitHub_CLI-eaeef2?style=flat-square&logo=github&logoColor=003893">
+          <img src="https://img.shields.io/badge/GitHub_CLI-161b22?style=flat-square&logo=github&logoColor=1a5fd4" alt="GitHub CLI" />
+        </picture><br/>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PAM_Security-161b22?style=flat-square&logo=linux&logoColor=1a5fd4">
+          <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/PAM_Security-eaeef2?style=flat-square&logo=linux&logoColor=003893">
+          <img src="https://img.shields.io/badge/PAM_Security-161b22?style=flat-square&logo=linux&logoColor=1a5fd4" alt="PAM" />
+        </picture><br/>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Device_Trees-161b22?style=flat-square&logo=android&logoColor=DC143C">
+          <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Device_Trees-eaeef2?style=flat-square&logo=android&logoColor=DC143C">
+          <img src="https://img.shields.io/badge/Device_Trees-161b22?style=flat-square&logo=android&logoColor=DC143C" alt="Trees" />
+        </picture>
       </td>
     </tr>
   </tbody>
