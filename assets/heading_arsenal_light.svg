@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 40" width="100%">
+  <!-- Light background with subtle GitHub light border -->
+  <rect width="720" height="40" rx="4" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
+  <!-- Left Nepal blue accent bar -->
+  <rect x="0" y="0" width="3" height="40" rx="1" fill="#003893"/>
+  <!-- Terminal prompt symbol -->
+  <text x="18" y="26" font-family="ui-monospace,'Fira Code',monospace" font-size="14" font-weight="700" fill="#003893">▸</text>
+  <!-- Section label -->
+  <text x="36" y="26" font-family="ui-monospace,'Fira Code',monospace" font-size="13" font-weight="600" letter-spacing="3px" fill="#1f2328">ARSENAL</text>
+  <!-- Dot separator -->
+  <text x="130" y="26" font-family="ui-monospace,'Fira Code',monospace" font-size="13" fill="#d0d7de"> ─────────────────────────────────────────────</text>
+  <!-- Right label -->
+  <text x="660" y="26" text-anchor="end" font-family="ui-monospace,'Fira Code',monospace" font-size="10" letter-spacing="1px" fill="#656d76">02</text>
+</svg>

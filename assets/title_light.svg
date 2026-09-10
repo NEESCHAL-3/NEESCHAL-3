@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 54" width="100%" height="54" fill="none">
+  <defs>
+    <!-- Light mode rich flowing gradient: Nepal Blue → Royal Purple → Crimson → Blue -->
+    <linearGradient id="nameFlowLight" x1="0%" y1="0%" x2="100%" y2="0%" gradientUnits="userSpaceOnUse">
+      <stop offset="0%"   stop-color="#003893">
+        <animate attributeName="stop-color"
+          values="#003893; #5a189a; #DC143C; #003893"
+          dur="3.5s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="35%"  stop-color="#5a189a">
+        <animate attributeName="stop-color"
+          values="#5a189a; #DC143C; #003893; #5a189a"
+          dur="3.5s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="65%"  stop-color="#DC143C">
+        <animate attributeName="stop-color"
+          values="#DC143C; #003893; #5a189a; #DC143C"
+          dur="3.5s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#003893">
+        <animate attributeName="stop-color"
+          values="#003893; #5a189a; #DC143C; #003893"
+          dur="3.5s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <text x="260" y="38" text-anchor="middle"
+        font-family="ui-monospace, 'Cascadia Code', 'Fira Code', 'JetBrains Mono', monospace"
+        font-size="32" font-weight="700" letter-spacing="-0.5px">
+    <tspan fill="#1f2328">Hey, I'm </tspan>
+    <tspan fill="url(#nameFlowLight)">Nischal</tspan>
+    <tspan fill="#1f2328"> 👋</tspan>
+  </text>
+</svg>

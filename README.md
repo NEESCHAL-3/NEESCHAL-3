@@ -5,7 +5,11 @@
 </p>
 
 <p>
-  <img src="./assets/title_neon.svg" width="440" alt="Hey, I'm Nischal 👋" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/title_neon.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/title_light.svg">
+    <img src="./assets/title_neon.svg" width="440" alt="Hey, I'm Nischal 👋" />
+  </picture>
 </p>
 
 <p>
@@ -15,19 +19,39 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1400&color=DC143C&center=true&vCenter=true&width=620&lines=Exploring+Linux+internals+and+kernel+development;Building+native+hardware+tools+with+Rust+%26+Flutter;Tinkering+with+Android+custom+ROMs+and+recoveries;Learning%2C+building%2C+and+improving+step+by+step" alt="Typing SVG" />
 
 <br/>
-<img src="./assets/cyber_divider.svg" width="100%" alt="divider" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/cyber_divider.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/cyber_divider_light.svg">
+  <img src="./assets/cyber_divider.svg" width="100%" alt="divider" />
+</picture>
 
 </div>
 
-<img src="./assets/heading_identity.svg" width="100%" alt="IDENTITY" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/heading_identity.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/heading_identity_light.svg">
+  <img src="./assets/heading_identity.svg" width="100%" alt="IDENTITY" />
+</picture>
 
-<img src="./assets/identity_yaml.svg" width="100%" alt="System Overview YAML" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/identity_yaml.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/identity_yaml_light.svg">
+  <img src="./assets/identity_yaml.svg" width="100%" alt="System Overview YAML" />
+</picture>
 
 <div align="center">
-  <img src="./assets/cyber_divider.svg" width="100%" alt="divider" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/cyber_divider.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/cyber_divider_light.svg">
+    <img src="./assets/cyber_divider.svg" width="100%" alt="divider" />
+  </picture>
 </div>
 
-<img src="./assets/heading_arsenal.svg" width="100%" alt="ARSENAL" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/heading_arsenal.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/heading_arsenal_light.svg">
+  <img src="./assets/heading_arsenal.svg" width="100%" alt="ARSENAL" />
+</picture>
 
 <table>
   <thead>
@@ -65,10 +89,18 @@
 </table>
 
 <div align="center">
-  <img src="./assets/cyber_divider.svg" width="100%" alt="divider" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/cyber_divider.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/cyber_divider_light.svg">
+    <img src="./assets/cyber_divider.svg" width="100%" alt="divider" />
+  </picture>
 </div>
 
-<img src="./assets/heading_builds.svg" width="100%" alt="BUILDS" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/heading_builds.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/heading_builds_light.svg">
+  <img src="./assets/heading_builds.svg" width="100%" alt="BUILDS" />
+</picture>
 
 <table>
   <tr>
@@ -113,7 +145,11 @@
 
 <div align="center">
 
-<img src="./assets/cyber_divider.svg" width="100%" alt="divider" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/cyber_divider.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/cyber_divider_light.svg">
+  <img src="./assets/cyber_divider.svg" width="100%" alt="divider" />
+</picture>
 
 <sub>Building quietly, learning deeply, and improving one commit at a time.</sub>
 
