@@ -16,7 +16,7 @@
   <code>BSc (Hons) Computer Science &amp; Engineering</code> &nbsp;•&nbsp; <code>Nepal &nbsp;<img src="./assets/nepal_flag_waving.svg" height="14" align="texttop" alt="🇳🇵" /></code>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1400&color=DC143C&center=true&vCenter=true&width=620&lines=Exploring+Linux+internals+and+kernel+development;Building+native+hardware+tools+with+Rust+%26+Flutter;Tinkering+with+Android+custom+ROMs+and+recoveries;Learning%2C+building%2C+and+improving+step+by+step" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1100&color=DC143C&center=true&vCenter=true&width=660&lines=Exploring+Linux+internals+and+kernel+development;Tinkering+with+Android+custom+ROMs+and+recoveries;Turning+caffeine+into+kernel+panics+since+day+one;Why+write+10+lines+of+Python+when+500+lines+of+C+will+do%3F;Bootloop+is+just+the+device+meditating+really+hard;git+push+--force+and+let+tomorrow%27s+me+deal+with+it;Building+native+hardware+tools+with+Rust+%26+Flutter;If+it+runs+on+my+machine%2C+we+ship+my+machine;Studying+CSE%3A+10%25+coding%2C+90%25+deciphering+compiler+errors;Never+fear+a+bricked+phone%2C+only+fear+an+empty+backup;0+warnings%2C+0+errors...wait%2C+something+is+wrong;Compiling+custom+kernels+at+3+AM+for+that+sweet+%2B2+FPS;Building+quietly+from+Nepal+to+the+global+open-source+grid;It%27s+not+a+bug%2C+it%27s+an+undocumented+AOSP+feature;Stack+Overflow+didn%27t+know+either%2C+so+here+we+are;Break+things+responsibly%2C+read+the+source%2C+repeat;One+commit+at+a+time...mostly+fix+typo+and+WIP;Real+developers+test+in+production+with+unlocked+bootloaders;rm+-rf+%2Fvendor%2Fbuild.prop+and+inshallah+it+boots;Premature+optimization+is+fun+until+GCC+unrolls+your+sanity;Quiet+dedication%2C+deep+curiosity%2C+and+relentless+commits;There%27s+no+place+like+127.0.0.1+unless+loopback+died;Compiling+Android+tree...time+to+make+lunch;Learning+deeply%2C+building+fearlessly%2C+committing+boldly" alt="Typing SVG" />
 
 <br/>
 <picture>
@@ -189,9 +189,9 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/NEESCHAL-3/ViPER4Android">ViPER4Android</a></h3>
-      <p>Rebuilt ViPER4Android with Material Design 3 — modern UI on top of a powerful audio effects engine.</p>
-      <code>Android</code> <code>Material 3</code> <code>Audio</code>
+      <h3><a href="https://github.com/NEESCHAL-3/future-sanctuary">future-sanctuary</a></h3>
+      <p>A digital sanctuary and time capsule for future generations — preserving thoughts and artifacts, built in Nepal.</p>
+      <code>JavaScript</code> <code>Web</code> <code>Time Capsule</code> <code>Nepal 2026</code>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/NEESCHAL-3/Rodin-Capability-Extension">Rodin-Capability-Extension</a></h3>
@@ -211,6 +211,12 @@
   <img src="./assets/cyber_divider.svg" width="100%" alt="divider" />
 </picture>
 
-<sub>Building quietly, learning deeply, and improving one commit at a time.</sub>
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/footer_quote.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/footer_quote_light.svg">
+  <img src="./assets/footer_quote.svg" width="680" alt="Building quietly, learning deeply, and improving one commit at a time." />
+</picture>
 
 </div>

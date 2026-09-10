@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 54" width="100%" height="54" fill="none">
+  <defs>
+    <!-- Nepal flowing gradient on "learning deeply" for light mode -->
+    <linearGradient id="quoteFlowLight" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#003893">
+        <animate attributeName="stop-color" values="#003893;#5a189a;#DC143C;#003893" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%"  stop-color="#5a189a">
+        <animate attributeName="stop-color" values="#5a189a;#DC143C;#003893;#5a189a" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#DC143C">
+        <animate attributeName="stop-color" values="#DC143C;#003893;#5a189a;#DC143C" dur="4s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <!-- Light mode border gradient with Nepal accents -->
+    <linearGradient id="borderGradLight" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#003893" stop-opacity="0.5"/>
+      <stop offset="35%" stop-color="#d0d7de" stop-opacity="1"/>
+      <stop offset="70%" stop-color="#1a5fd4" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#DC143C" stop-opacity="0.5"/>
+    </linearGradient>
+
+    <!-- Subtle inner backdrop glow -->
+    <radialGradient id="innerGlowLight" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#003893" stop-opacity="0.04"/>
+      <stop offset="100%" stop-color="#f6f8fa" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Light pill background with subtle gradient border -->
+  <rect x="1" y="1" width="718" height="52" rx="26" fill="#f6f8fa" stroke="url(#borderGradLight)" stroke-width="1.3"/>
+  <rect x="2" y="2" width="716" height="50" rx="25" fill="url(#innerGlowLight)"/>
+
+  <!-- Left Git commit branch / node -->
+  <g transform="translate(32, 27)">
+    <line x1="-14" y1="0" x2="-6" y2="0" stroke="#d0d7de" stroke-width="2" stroke-linecap="round"/>
+    <line x1="6" y1="0" x2="14" y2="0" stroke="#d0d7de" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="0" cy="0" r="6" stroke="#003893" stroke-width="2" fill="#ffffff"/>
+    <circle cx="0" cy="0" r="3" fill="#DC143C">
+      <animate attributeName="r" values="2;3.6;2" dur="2s" repeatCount="indefinite"/>
+      <animate attributeName="fill" values="#DC143C;#003893;#DC143C" dur="2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Bold developer motto text for light mode -->
+  <text x="60" y="32.5"
+        font-family="ui-monospace, 'Cascadia Code', 'Fira Code', 'JetBrains Mono', Consolas, monospace"
+        font-size="12.8" font-weight="800" letter-spacing="-0.2px">
+    <tspan fill="#1f2328">Building quietly</tspan>
+    <tspan fill="#8c959f"> · </tspan>
+    <tspan fill="url(#quoteFlowLight)">learning deeply</tspan>
+    <tspan fill="#8c959f"> · </tspan>
+    <tspan fill="#1f2328">improving one commit at a time</tspan>
+    <tspan fill="#DC143C" font-weight="900">
+      <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite"/>_
+    </tspan>
+  </text>
+
+  <!-- Right status pill badge: [● main] -->
+  <g transform="translate(628, 16)">
+    <rect x="0" y="0" width="66" height="22" rx="11" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+    <circle cx="12" cy="11" r="3.2" fill="#1a7f37">
+      <animate attributeName="opacity" values="0.7;1;0.7" dur="2s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="2.8;3.5;2.8" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="21" y="14.5"
+          font-family="ui-monospace, 'Cascadia Code', Consolas, monospace"
+          font-size="10" font-weight="700" fill="#57606a">main</text>
+  </g>
+</svg>
