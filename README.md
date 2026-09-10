@@ -1,7 +1,7 @@
 <div align="center">
 
 <p>
-  <img src="./assets/pet_typing.gif" width="280" alt="Animated penguin mascot" />
+  <img src="./assets/pet_typing.gif" width="280" height="280" alt="Animated penguin mascot" />
 </p>
 
 <p>
@@ -16,7 +16,7 @@
   <code>BSc (Hons) Computer Science &amp; Engineering</code> &nbsp;•&nbsp; <code>Nepal &nbsp;<img src="./assets/nepal_flag_waving.svg" height="14" align="texttop" alt="🇳🇵" /></code>
 </p>
 
-<img src="./assets/typing_chaos.svg" width="780" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2000&pause=3000&color=DC143C&center=true&vCenter=true&width=780&lines=Learning%2C+experimenting%2C+and+exploring;void+***ptr+entered%2C+sanity+vanished;Quiet+commits%2C+loud+results;I+have+300+branches+and+no+idea+why;1+bug+refactored+to+14+new+bugs;99%25+done.+Rest+takes+3+months.;Real+devs+test+on+unlocked+bootloaders;Windows+Update+at+99%25+build;chmod+777+because+debugging+is+temporary;Coffee.exe+stopped.+Restarting+human...;GCC+unrolling+my+code+and+my+sanity;Memory+leak%3F+No%2C+my+RAM+is+generous;malloc+failed%3A+even+RAM+said+no;Why+write+10+Python+when+500+C+will+do%3F;Kernel+compiled%2C+hope+it+boots;Changed+1+line%2C+rebuilding+Android+tree;The+code+works.+Don%27t+touch+it.;Permission+denied+is+the+final+boss;Studying+CSE%3A+90%25+deciphering+errors;No+cloud%2C+just+someone%27s+PC+on+fire;Bootloop%3A+device+is+meditating;Build+failed+because+I+looked+at+it;The+compiler+error+is+written+by+Satan;Code+works%2C+don%27t+know+why%3A+pure+panic;Git+conflict+=+character+growth;Added+debug+print.+It+fixed+itself.+Stays.;Bootanimation+stuck%3F+Wallpaper+unlocked!;My+code+has+only+undocumented+features;Rename+variables+out+of+fear;Fixing+1+bug%2C+creating+3+legendary+ones;Segmentation+fault%3A+computer+gave+up;If+it+boots%2C+don%27t+ask+questions;Use+Arch+btw+until+update+nukes+display;TODO%3A+Fix+this+later+(created+in+2019);Pointers%3A+suffering+builds+character;Comment+said+don%27t+touch%2C+so+I+did;Stack+Overflow+2011%3A+never+mind%2C+solved+it;Caffeine+to+segfaults+converter;Sleep+is+just+a+RAM+refresh+for+humans;Nobody+knows+my+repo%2C+compiler+does;Temporary+hack+is+now+architecture;rm+-rf+out/+and+pretending+I+didn%27t+cry;One+wrong+command%2C+weekend+disappeared;Day+of+coding+saves+15m+docs;Works+perfectly+until+someone+watches;Said+small+fix%2C+git+diff+was+47+files;Dijkstra+at+4+AM+is+path+to+coffee;Comment+out+tests+so+CI+turns+green;Compiling+kernels+at+2+AM+for+%2B2+FPS;Compiling+Firefox+for+winter+heat" alt="Typing SVG" />
 
 <br/>
 
