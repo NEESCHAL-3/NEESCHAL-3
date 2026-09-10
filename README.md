@@ -16,11 +16,7 @@
   <code>BSc (Hons) Computer Science &amp; Engineering</code> &nbsp;•&nbsp; <code>Nepal &nbsp;<img src="./assets/nepal_flag_waving.svg" height="14" align="texttop" alt="🇳🇵" /></code>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/chaos_typing.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/chaos_typing_light.svg">
-  <img src="./assets/chaos_typing.svg" width="760" alt="1,000 Chronicles of Developer Chaos" />
-</picture>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1100&color=DC143C&center=true&vCenter=true&width=750&lines=Compiling+custom+kernels+at+2%3A00+AM+for+that+sweet+%2B2+FPS;Turning+caffeine+into+kernel+panics+since+day+one;Bootloop+is+just+the+device+meditating+really+hard;Why+write+10+lines+of+Python+when+500+lines+of+C+will+do%3F;git+push+--force+and+let+tomorrow%27s+me+deal+with+the+trauma;If+it+works+on+my+machine%2C+we+ship+my+machine;Windows+Update+restarting+at+99%25+during+kernel+builds;WSL2+politely+consuming+31.9+GB+of+my+32+GB+RAM;Studying+CSE%3A+10%25+coding%2C+90%25+deciphering+compiler+errors;Never+fear+a+bricked+phone%2C+only+fear+an+empty+backup;0+warnings%2C+0+errors...wait%2C+something+is+terribly+wrong;rm+-rf+%2Fvendor%2Fbuild.prop+and+inshallah+it+boots;Real+developers+test+in+production+with+unlocked+bootloaders;I+use+Arch+btw+until+an+update+nukes+the+display+manager;Gentoo+users+compiling+Firefox+to+heat+up+the+room;Exiting+Vim+by+pulling+the+computer+cord+from+the+wall;void+***ptr+entered+the+chat+and+my+degree+vanished;Dijkstra+at+4+AM%3A+shortest+path+between+me+and+caffeine;Qualcomm+9008+EDL+mode%3A+spiritual+near-death+experience;Stack+Overflow+didn%27t+know+either%2C+so+here+we+are;It%27s+not+a+bug%2C+it%27s+an+undocumented+AOSP+feature;There%27s+no+place+like+127.0.0.1+unless+loopback+died;Premature+optimization+is+fun+until+GCC+unrolls+your+sanity;Compiling+Android+tree...time+to+make+lunch+and+pray;One+commit+at+a+time...mostly+fix+typo+and+WIP;Building+native+hardware+tools+with+Rust+%26+Flutter;Building+quietly+from+Nepal+to+the+global+open-source+grid;Learning+deeply%2C+building+fearlessly%2C+committing+boldly" alt="Typing SVG" />
 
 <br/>
 
