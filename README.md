@@ -36,6 +36,7 @@
 > **`ETHOS`** &nbsp;&nbsp;&nbsp;&nbsp; Tinkering with Android internals, custom ROMs, and Linux kernels. Still learning, constantly breaking things, and building them back better.  
 > **`TARGET`** &nbsp;&nbsp;&nbsp; Custom kernel bringup (Linux 6.6 / 7.3), forward-compatible AOSP trees (Android 15+), recovery environments, and native low-level tools in C & Rust.  
 > **`CONNECT`** &nbsp;&nbsp; [`LinkedIn`](https://www.linkedin.com/in/nischal0101/) &nbsp;•&nbsp; [`Email`](mailto:nischalkhadka022@gmail.com) &nbsp;•&nbsp; Inaruwa, Nepal (`UTC+05:45`)
+> **`SUPPORT`** &nbsp;&nbsp;&nbsp; ❤️ [Support my open-source work on Patreon](https://www.patreon.com/12380318/join)
 
 ---
 
